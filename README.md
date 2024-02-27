@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![socialLink](./screenshots/sociallinkscode.png)
+![socialLink](./screenshot/sociallinkscode.png)
 
 
 ### Links
